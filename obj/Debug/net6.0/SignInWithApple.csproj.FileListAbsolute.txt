@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.AssemblyInfo.cs
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.RazorAssemblyInfo.cache
+C:\Users\Asus\Desktop\AppleLogin\SignInWithApple\obj\Debug\net6.0\SignInWithApple.RazorAssemblyInfo.cs

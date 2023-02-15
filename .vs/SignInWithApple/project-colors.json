@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d0c0870c-2224-49e1-9474-7c5d8a197973": {
+      "ProjectGuid": "d0c0870c-2224-49e1-9474-7c5d8a197973",
+      "DisplayName": "SignInWithApple",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
